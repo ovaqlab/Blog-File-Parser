@@ -28,7 +28,7 @@ Contents .........
 output of this parser will be like follows:
 
 ```
-{
+[{
   "title": "title",
   "description": "Description",
   "author": "Author name",
@@ -37,4 +37,5 @@ output of this parser will be like follows:
   "published": true,
   "short-content": "Short conten",
   "content": "contents"
-}```
+}] 
+```
